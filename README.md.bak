@@ -1,6 +1,6 @@
-## JavaScript: provides functionalities to web pages
+JavaScript: provides functionalities to web pages
 ----------
-#### Introduction
+Introduction
 Use of JavaScript
        -- within HTML Page (inside <script>)
 	   -- external js file and include it in the HTML file
@@ -83,5 +83,3 @@ Github
 
   9.4 push the changes in the github
      $ git push -u origin master
-	 
-10. Read About Markdown
